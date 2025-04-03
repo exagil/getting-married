@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/getting-married(/.*)?",
+      "destination": "https://getting-married.vercel.app/$1"
+    }
+  ]
+}
